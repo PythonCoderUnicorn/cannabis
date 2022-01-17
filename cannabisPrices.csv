@@ -1,5 +1,5 @@
 
-store, brand, flavour, quantity, price_each, date,
+store, brand, flavour, quantity, price_each, date
 'Canna Cabanna', 'Rilaxe', 'Mango Tango', 2, 5.62, 'Jan-04-2022'
 'Canna Cabanna', 'Wana', 'Mango Sour', 1, 5.24, 'Jan-04-2022'
 'Canna Cabanna', 'Edison Bytes', 'Choc. Truffles', 2, 4.12, 'Jan-04-2022'
