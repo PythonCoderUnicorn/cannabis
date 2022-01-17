@@ -1,13 +1,13 @@
 
 store, brand, flavour, quantity, price_each, date
-Canna Cabanna, 'Rilaxe', 'Mango Tango', 2, 5.62, 'Jan-04-2022'
-Canna Cabanna, 'Wana', 'Mango Sour', 1, 5.24, 'Jan-04-2022'
-Canna Cabanna, 'Edison Bytes', 'Choc. Truffles', 2, 4.12, 'Jan-04-2022'
-Value Buds, 'Summit','Peach Lemonade', 1, 5.97, '12-17-2021'
-Value Buds, 'Edison', 'Limelight', 1, 12.97, '12-17-2021'
-Value Buds, 'Spinach', 'Atomic Sour Grapefruit', 1, 12.97, '12-17-2021'
-Value Buds, 'Pantry', 'peach jellies', 1, 4.47, '12-17-2021'
-Value Buds, 'Back 40 ', 'sour grape', 1, 3.97, '12-17-2021'
-Value Buds, 'Ripple', 'Lemonade', 1, 3.97, '12-17-2021'
-Value Buds, 'Kolab', 'cherry cola', 3, 4.97, '12-17-2021'
+Canna Cabanna, Rilaxe, Mango Tango, 2, 5.62, Jan-04-2022
+Canna Cabanna, Wana, Mango Sour, 1, 5.24, Jan-04-2022
+Canna Cabanna, Edison Bytes, Choc. Truffles, 2, 4.12, Jan-04-2022
+Value Buds, Summit,Peach Lemonade, 1, 5.97, 12-17-2021
+Value Buds, Edison, Limelight, 1, 12.97, 12-17-2021
+Value Buds, Spinach, Atomic Sour Grapefruit, 1, 12.97, 12-17-2021
+Value Buds, Pantry, peach jellies, 1, 4.47, 12-17-2021
+Value Buds, Back 40 , sour grape, 1, 3.97, 12-17-2021
+Value Buds, Ripple, Lemonade, 1, 3.97, 12-17-2021
+Value Buds, Kolab, cherry cola, 3, 4.97, 12-17-2021
 Value Buds, Summit, Peach Lemonade, 1, 5.97, 12-03-2021
