@@ -2,4 +2,4 @@
 
 
 # Cannabis
-a repo of legal Cannabis products in Canada
+A dataset repo of legal Cannabis products in Canada. This is not an extensive list of all possible products, just ones purchased.
