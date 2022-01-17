@@ -1,14 +1,37 @@
 
-brand, type, THC_mg, CBD_mg, quantity
-Tweed, docha & milk chocolate, 10, 1, 4
-Bhang, dark chocolate, 10, 0, 1
-Chwowie, milk chocolate, 10, 1, 1
-Chwowie, watermelon gummies, 10, 1, 4
-Sourz (Spinach), strawberry mango (sativa), 2, 0.5, 5
-Bhang, dark chocolate, 10, 0, 1
-MXG, tropical fruit drink, 10, 0.9, 1
-The Vision, pre-roll joints, 15.80, 1, 2
-Sourz (Spinach), strawberry mango (sativa), 2, 0.5, 5
-TIDAL, fruit punch gummy (sativa), 10, 0, 1
-Wana quick, pineapple coconut sorbet, 5, 0, 2
-Twd, mixed berry gummies, 2, 1, 5
+brand, type, flavour, THC_mg, CBD_mg, quantity
+Tweed, edible, docha & milk chocolate, 10, 1, 4
+Bhang,  edible, dark chocolate, 10, 0, 1
+Chwowie, edible, milk chocolate, 10, 1, 1
+Chwowie, edible,watermelon gummies, 10, 1, 4
+Sourz (Spinach), edible, strawberry mango (sativa), 2, 0.5, 5
+Bhang,  edible, dark chocolate, 10, 0, 1
+MXG, edible, tropical fruit drink, 10, 0.9, 1
+The Vision, pre-roll joints, NA, 15.80, 1, 2
+Sourz (Spinach), edible, strawberry mango (sativa), 2, 0.5, 5
+TIDAL,  edible, fruit punch gummy (sativa), 10, 0, 1
+Wana quick,  edible, pineapple coconut sorbet, 5, 0, 2
+Twd, edible, mixed berry gummies, 2, 1, 5
+MAC1, pre-rolled joints, NA, 3.74, 1, 2
+Sourz (Spinach),  edible, strawberry mango (sativa), 2, 0.5, 5
+Wana quick, edible, pineapple coconut sorbet, 5, 0, 2
+Chwowie,  edible, watermelon gummies, 10, 0.25, 4
+Bhang, edible, dark chocolate, 10, 0, 1
+Pantry,  edible, peach jellies, 2, 2, 5
+Spinach, pre-roll joints, atomic sour grapefruit (indica), 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
